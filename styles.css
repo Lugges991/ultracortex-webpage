@@ -1,0 +1,21 @@
+body {
+    background-color: #FAFAFA; /* Gray background */
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.content {
+    padding-top: 20px; /* Adjust as needed */
+}
+
+.logo {
+    width: 800px; /* Adjust as per your logo */
+    height: auto;
+}
+
+.links a {
+    display: block;
+    margin-top: 20px;
+    color: black;
+    text-decoration: none;
+}
